@@ -37,11 +37,11 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I had the opportunity to gain more experience working with Flexbox and using CSS Grid for the first time. Working on this challenge has made me more comfortable applying Flexbox to projects. It has also gave me the opportunity to practice using the properties of CSS grid. Specifically, I mainly practiced placing columns and rows with grid-template-columns and grid-template-rows as well as moving around elements in the grid using grid-column and grid-row properties. This project mainly revolved using CSS Grid overall.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I believe that I will need additional practice with CSS Grid in order to be more comfortable using it. I will need to learn how I can apply Flexbox and CSS Grid in future challenges/projects I may come across in the future.
 
 ## Author
 
