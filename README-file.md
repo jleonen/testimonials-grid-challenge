@@ -41,7 +41,7 @@ I had the opportunity to gain more experience working with Flexbox and using CSS
 
 ### Continued development
 
-I believe that I will need additional practice with CSS Grid in order to be more comfortable using it. I will need to learn how I can apply Flexbox and CSS Grid in future challenges/projects I may come across in the future.
+I believe that I will need additional practice with CSS Grid in order to be more comfortable using it. I will need to learn how I can apply Flexbox and CSS Grid in future challenges/projects I may come across in the future. Also, this project is not responsive at the moment. Will plan to making it responsive in the future. 
 
 ## Author
 
